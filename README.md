@@ -1,2 +1,2 @@
 # TrabajosPractica
-Aquí iré dejando las cosas que hago para practicar
+Este es un simple juego de tres en raya, pienso actualizarlo para añadir una interfaz gráfica
